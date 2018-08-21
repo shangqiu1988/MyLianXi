@@ -39,15 +39,7 @@ target 'NewUXin' do
          pod 'LKDBHelper', '~> 2.5.1'
          pod 'YYImage', '~> 1.0.4'
          pod 'Aspects', '~> 1.4.1'
-     pod 'React', :path => 'node_modules/react-native', :subspecs => [
-    'Core',
-    'DevSupport',
-    'RCTText',
-    'RCTNetwork',
-    'RCTWebSocket', 
-    'BatchedBridge',
-  ]
-  pod "Yoga", :path => "node_modules/react-native/ReactCommon/yoga"
+    
     target 'NewUXinTests' do
         inherit! :search_paths
     end

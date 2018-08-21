@@ -15,38 +15,16 @@
 		7B135C6B20CC950E00D61CCC /* UXinNavigationControllerViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7B135C6520CC950E00D61CCC /* UXinNavigationControllerViewController.xib */; };
 		7B135C6E20D0CD2E00D61CCC /* UXinTestLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B135C6D20D0CD2E00D61CCC /* UXinTestLabel.m */; };
 		7B135C7120D341B900D61CCC /* UXinHomeController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B135C7020D341B900D61CCC /* UXinHomeController.m */; };
-		7B135CBE20E1661000D61CCC /* UXinApplicationDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B135CBD20E1661000D61CCC /* UXinApplicationDelegate.m */; };
-		7B135CC120E166C800D61CCC /* UXinApplication.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B135CC020E166C800D61CCC /* UXinApplication.m */; };
-		7B135CC220E166C800D61CCC /* UXinApplication.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B135CC020E166C800D61CCC /* UXinApplication.m */; };
-		7B135CC320E166C800D61CCC /* UXinApplication.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B135CC020E166C800D61CCC /* UXinApplication.m */; };
-		7B2E000B1FB0D85900D19C18 /* UXinHotUpdateVersionCheck.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B2E000A1FB0D85900D19C18 /* UXinHotUpdateVersionCheck.m */; };
-		7B2E000C1FB0D85900D19C18 /* UXinHotUpdateVersionCheck.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B2E000A1FB0D85900D19C18 /* UXinHotUpdateVersionCheck.m */; };
-		7B2E000D1FB0D85900D19C18 /* UXinHotUpdateVersionCheck.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B2E000A1FB0D85900D19C18 /* UXinHotUpdateVersionCheck.m */; };
 		7B43DB511F9E6998002CCB86 /* UXinTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B43DB501F9E6998002CCB86 /* UXinTabBarController.m */; };
 		7B43DB521F9E6998002CCB86 /* UXinTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B43DB501F9E6998002CCB86 /* UXinTabBarController.m */; };
 		7B43DB531F9E6998002CCB86 /* UXinTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B43DB501F9E6998002CCB86 /* UXinTabBarController.m */; };
 		7B43DB561F9EC3E7002CCB86 /* RecorderDelegate.h in Sources */ = {isa = PBXBuildFile; fileRef = 7B43DB551F9EC391002CCB86 /* RecorderDelegate.h */; };
-		7B43DBA81FA03A7A002CCB86 /* UXinHotUpdate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B43DBA71FA03A7A002CCB86 /* UXinHotUpdate.m */; };
-		7B43DBA91FA03A7A002CCB86 /* UXinHotUpdate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B43DBA71FA03A7A002CCB86 /* UXinHotUpdate.m */; };
-		7B43DBAA1FA03A7A002CCB86 /* UXinHotUpdate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B43DBA71FA03A7A002CCB86 /* UXinHotUpdate.m */; };
 		7B43DBAD1FA041E9002CCB86 /* UXinDBHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B43DBAC1FA041E9002CCB86 /* UXinDBHelper.m */; };
 		7B43DBAE1FA041E9002CCB86 /* UXinDBHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B43DBAC1FA041E9002CCB86 /* UXinDBHelper.m */; };
 		7B43DBAF1FA041E9002CCB86 /* UXinDBHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B43DBAC1FA041E9002CCB86 /* UXinDBHelper.m */; };
 		7B43DBB21FA04237002CCB86 /* UXinDBModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B43DBB11FA04237002CCB86 /* UXinDBModel.m */; };
 		7B43DBB31FA04237002CCB86 /* UXinDBModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B43DBB11FA04237002CCB86 /* UXinDBModel.m */; };
 		7B43DBB41FA04237002CCB86 /* UXinDBModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B43DBB11FA04237002CCB86 /* UXinDBModel.m */; };
-		7B43DBBB1FA044D3002CCB86 /* BSDiff.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B43DBB71FA044D3002CCB86 /* BSDiff.m */; };
-		7B43DBBC1FA044D3002CCB86 /* BSDiff.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B43DBB71FA044D3002CCB86 /* BSDiff.m */; };
-		7B43DBBD1FA044D3002CCB86 /* BSDiff.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B43DBB71FA044D3002CCB86 /* BSDiff.m */; };
-		7B43DBBE1FA044D3002CCB86 /* bspatch.c in Sources */ = {isa = PBXBuildFile; fileRef = 7B43DBB91FA044D3002CCB86 /* bspatch.c */; };
-		7B43DBBF1FA044D3002CCB86 /* bspatch.c in Sources */ = {isa = PBXBuildFile; fileRef = 7B43DBB91FA044D3002CCB86 /* bspatch.c */; };
-		7B43DBC01FA044D3002CCB86 /* bspatch.c in Sources */ = {isa = PBXBuildFile; fileRef = 7B43DBB91FA044D3002CCB86 /* bspatch.c */; };
-		7B43DBC31FA10879002CCB86 /* UXinHotUpdateManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B43DBC21FA10879002CCB86 /* UXinHotUpdateManager.m */; };
-		7B43DBC41FA10879002CCB86 /* UXinHotUpdateManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B43DBC21FA10879002CCB86 /* UXinHotUpdateManager.m */; };
-		7B43DBC51FA10879002CCB86 /* UXinHotUpdateManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B43DBC21FA10879002CCB86 /* UXinHotUpdateManager.m */; };
-		7B43DBC81FA108AB002CCB86 /* UXinHotUpdateDownloader.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B43DBC71FA108AB002CCB86 /* UXinHotUpdateDownloader.m */; };
-		7B43DBC91FA108AB002CCB86 /* UXinHotUpdateDownloader.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B43DBC71FA108AB002CCB86 /* UXinHotUpdateDownloader.m */; };
-		7B43DBCA1FA108AB002CCB86 /* UXinHotUpdateDownloader.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B43DBC71FA108AB002CCB86 /* UXinHotUpdateDownloader.m */; };
 		7B5862701FAB82D6005328A2 /* UXinEmptyDataSetWeakObjectContainer.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B58626F1FAB82D6005328A2 /* UXinEmptyDataSetWeakObjectContainer.m */; };
 		7B5862711FAB82D6005328A2 /* UXinEmptyDataSetWeakObjectContainer.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B58626F1FAB82D6005328A2 /* UXinEmptyDataSetWeakObjectContainer.m */; };
 		7B5862721FAB82D6005328A2 /* UXinEmptyDataSetWeakObjectContainer.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B58626F1FAB82D6005328A2 /* UXinEmptyDataSetWeakObjectContainer.m */; };
@@ -144,6 +122,15 @@
 		7B79833D1F522C3C007D7B7E /* UIViewController+AlertController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B79833C1F522C3C007D7B7E /* UIViewController+AlertController.m */; };
 		7B79833E1F522C3C007D7B7E /* UIViewController+AlertController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B79833C1F522C3C007D7B7E /* UIViewController+AlertController.m */; };
 		7B79833F1F522C3C007D7B7E /* UIViewController+AlertController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B79833C1F522C3C007D7B7E /* UIViewController+AlertController.m */; };
+		7B84FCBE212AB49300F5CFCA /* UXinReactHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B84FCA7212AB49300F5CFCA /* UXinReactHelper.m */; };
+		7B84FCBF212AB49300F5CFCA /* BSDiff.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B84FCAB212AB49300F5CFCA /* BSDiff.m */; };
+		7B84FCC0212AB49300F5CFCA /* bspatch.c in Sources */ = {isa = PBXBuildFile; fileRef = 7B84FCAD212AB49300F5CFCA /* bspatch.c */; };
+		7B84FCC1212AB49300F5CFCA /* UXinHotUpdate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B84FCB0212AB49300F5CFCA /* UXinHotUpdate.m */; };
+		7B84FCC2212AB49300F5CFCA /* UXinHotUpdateDownloader.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B84FCB2212AB49300F5CFCA /* UXinHotUpdateDownloader.m */; };
+		7B84FCC3212AB49300F5CFCA /* UXinHotUpdateManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B84FCB4212AB49300F5CFCA /* UXinHotUpdateManager.m */; };
+		7B84FCC4212AB49300F5CFCA /* UXinHotUpdateVersionCheck.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B84FCB6212AB49300F5CFCA /* UXinHotUpdateVersionCheck.m */; };
+		7B84FCC5212AB49300F5CFCA /* UXinApplication.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B84FCBB212AB49300F5CFCA /* UXinApplication.m */; };
+		7B84FCC6212AB49300F5CFCA /* UXinApplicationDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B84FCBD212AB49300F5CFCA /* UXinApplicationDelegate.m */; };
 		7B854C9B1F684FF000FFF55D /* UXinSettingCellView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B854C9A1F684FF000FFF55D /* UXinSettingCellView.m */; };
 		7B854C9C1F684FF000FFF55D /* UXinSettingCellView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B854C9A1F684FF000FFF55D /* UXinSettingCellView.m */; };
 		7B854C9D1F684FF000FFF55D /* UXinSettingCellView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B854C9A1F684FF000FFF55D /* UXinSettingCellView.m */; };
@@ -242,9 +229,6 @@
 		7B99B6C21F32A70A00B7DC4A /* UXinLoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B99B6C11F32A70A00B7DC4A /* UXinLoginViewController.m */; };
 		7B99B6C31F32A70A00B7DC4A /* UXinLoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B99B6C11F32A70A00B7DC4A /* UXinLoginViewController.m */; };
 		7B99B6C41F32A70A00B7DC4A /* UXinLoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B99B6C11F32A70A00B7DC4A /* UXinLoginViewController.m */; };
-		7B9D90191FDF69F200E09F20 /* UXinReactHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B9D90181FDF69F200E09F20 /* UXinReactHelper.m */; };
-		7B9D901A1FDF69F200E09F20 /* UXinReactHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B9D90181FDF69F200E09F20 /* UXinReactHelper.m */; };
-		7B9D901B1FDF69F200E09F20 /* UXinReactHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B9D90181FDF69F200E09F20 /* UXinReactHelper.m */; };
 		7BB0679320EE8D4100A2CCCE /* UXinFinderController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BB0679220EE8D4100A2CCCE /* UXinFinderController.m */; };
 		7BB0679920EE916500A2CCCE /* UXinLightGrayView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BB0679820EE916500A2CCCE /* UXinLightGrayView.m */; };
 		7BB0679C20EE924700A2CCCE /* UXinUXinBlueView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BB0679B20EE924700A2CCCE /* UXinUXinBlueView.m */; };
@@ -514,29 +498,13 @@
 		7B135C6D20D0CD2E00D61CCC /* UXinTestLabel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UXinTestLabel.m; sourceTree = "<group>"; };
 		7B135C6F20D341B900D61CCC /* UXinHomeController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UXinHomeController.h; sourceTree = "<group>"; };
 		7B135C7020D341B900D61CCC /* UXinHomeController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UXinHomeController.m; sourceTree = "<group>"; };
-		7B135CBC20E1661000D61CCC /* UXinApplicationDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UXinApplicationDelegate.h; sourceTree = "<group>"; };
-		7B135CBD20E1661000D61CCC /* UXinApplicationDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UXinApplicationDelegate.m; sourceTree = "<group>"; };
-		7B135CBF20E166C800D61CCC /* UXinApplication.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UXinApplication.h; sourceTree = "<group>"; };
-		7B135CC020E166C800D61CCC /* UXinApplication.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UXinApplication.m; sourceTree = "<group>"; };
-		7B2E00091FB0D85800D19C18 /* UXinHotUpdateVersionCheck.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UXinHotUpdateVersionCheck.h; sourceTree = "<group>"; };
-		7B2E000A1FB0D85900D19C18 /* UXinHotUpdateVersionCheck.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UXinHotUpdateVersionCheck.m; sourceTree = "<group>"; };
 		7B43DB4F1F9E6998002CCB86 /* UXinTabBarController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UXinTabBarController.h; sourceTree = "<group>"; };
 		7B43DB501F9E6998002CCB86 /* UXinTabBarController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UXinTabBarController.m; sourceTree = "<group>"; };
 		7B43DB551F9EC391002CCB86 /* RecorderDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RecorderDelegate.h; sourceTree = "<group>"; };
-		7B43DBA61FA03A7A002CCB86 /* UXinHotUpdate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UXinHotUpdate.h; sourceTree = "<group>"; };
-		7B43DBA71FA03A7A002CCB86 /* UXinHotUpdate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UXinHotUpdate.m; sourceTree = "<group>"; };
 		7B43DBAB1FA041E9002CCB86 /* UXinDBHelper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UXinDBHelper.h; sourceTree = "<group>"; };
 		7B43DBAC1FA041E9002CCB86 /* UXinDBHelper.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UXinDBHelper.m; sourceTree = "<group>"; };
 		7B43DBB01FA04237002CCB86 /* UXinDBModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UXinDBModel.h; sourceTree = "<group>"; };
 		7B43DBB11FA04237002CCB86 /* UXinDBModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UXinDBModel.m; sourceTree = "<group>"; };
-		7B43DBB61FA044D3002CCB86 /* BSDiff.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BSDiff.h; sourceTree = "<group>"; };
-		7B43DBB71FA044D3002CCB86 /* BSDiff.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BSDiff.m; sourceTree = "<group>"; };
-		7B43DBB91FA044D3002CCB86 /* bspatch.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = bspatch.c; sourceTree = "<group>"; };
-		7B43DBBA1FA044D3002CCB86 /* bspatch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = bspatch.h; sourceTree = "<group>"; };
-		7B43DBC11FA10879002CCB86 /* UXinHotUpdateManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UXinHotUpdateManager.h; sourceTree = "<group>"; };
-		7B43DBC21FA10879002CCB86 /* UXinHotUpdateManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UXinHotUpdateManager.m; sourceTree = "<group>"; };
-		7B43DBC61FA108AB002CCB86 /* UXinHotUpdateDownloader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UXinHotUpdateDownloader.h; sourceTree = "<group>"; };
-		7B43DBC71FA108AB002CCB86 /* UXinHotUpdateDownloader.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UXinHotUpdateDownloader.m; sourceTree = "<group>"; };
 		7B58626E1FAB82D6005328A2 /* UXinEmptyDataSetWeakObjectContainer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UXinEmptyDataSetWeakObjectContainer.h; sourceTree = "<group>"; };
 		7B58626F1FAB82D6005328A2 /* UXinEmptyDataSetWeakObjectContainer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UXinEmptyDataSetWeakObjectContainer.m; sourceTree = "<group>"; };
 		7B5862731FAB85F2005328A2 /* UIView+EmptyDataSetConstrainBasedLayoutExtensions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIView+EmptyDataSetConstrainBasedLayoutExtensions.h"; sourceTree = "<group>"; };
@@ -599,6 +567,24 @@
 		7B7983371F521E37007D7B7E /* UXinAlertAction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UXinAlertAction.m; sourceTree = "<group>"; };
 		7B79833B1F522C3C007D7B7E /* UIViewController+AlertController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+AlertController.h"; sourceTree = "<group>"; };
 		7B79833C1F522C3C007D7B7E /* UIViewController+AlertController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+AlertController.m"; sourceTree = "<group>"; };
+		7B84FCA6212AB49300F5CFCA /* UXinReactHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UXinReactHelper.h; sourceTree = "<group>"; };
+		7B84FCA7212AB49300F5CFCA /* UXinReactHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UXinReactHelper.m; sourceTree = "<group>"; };
+		7B84FCAA212AB49300F5CFCA /* BSDiff.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BSDiff.h; sourceTree = "<group>"; };
+		7B84FCAB212AB49300F5CFCA /* BSDiff.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BSDiff.m; sourceTree = "<group>"; };
+		7B84FCAD212AB49300F5CFCA /* bspatch.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = bspatch.c; sourceTree = "<group>"; };
+		7B84FCAE212AB49300F5CFCA /* bspatch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = bspatch.h; sourceTree = "<group>"; };
+		7B84FCAF212AB49300F5CFCA /* UXinHotUpdate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UXinHotUpdate.h; sourceTree = "<group>"; };
+		7B84FCB0212AB49300F5CFCA /* UXinHotUpdate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UXinHotUpdate.m; sourceTree = "<group>"; };
+		7B84FCB1212AB49300F5CFCA /* UXinHotUpdateDownloader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UXinHotUpdateDownloader.h; sourceTree = "<group>"; };
+		7B84FCB2212AB49300F5CFCA /* UXinHotUpdateDownloader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UXinHotUpdateDownloader.m; sourceTree = "<group>"; };
+		7B84FCB3212AB49300F5CFCA /* UXinHotUpdateManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UXinHotUpdateManager.h; sourceTree = "<group>"; };
+		7B84FCB4212AB49300F5CFCA /* UXinHotUpdateManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UXinHotUpdateManager.m; sourceTree = "<group>"; };
+		7B84FCB5212AB49300F5CFCA /* UXinHotUpdateVersionCheck.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UXinHotUpdateVersionCheck.h; sourceTree = "<group>"; };
+		7B84FCB6212AB49300F5CFCA /* UXinHotUpdateVersionCheck.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UXinHotUpdateVersionCheck.m; sourceTree = "<group>"; };
+		7B84FCBA212AB49300F5CFCA /* UXinApplication.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UXinApplication.h; sourceTree = "<group>"; };
+		7B84FCBB212AB49300F5CFCA /* UXinApplication.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UXinApplication.m; sourceTree = "<group>"; };
+		7B84FCBC212AB49300F5CFCA /* UXinApplicationDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UXinApplicationDelegate.h; sourceTree = "<group>"; };
+		7B84FCBD212AB49300F5CFCA /* UXinApplicationDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UXinApplicationDelegate.m; sourceTree = "<group>"; };
 		7B854C991F684FF000FFF55D /* UXinSettingCellView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UXinSettingCellView.h; sourceTree = "<group>"; };
 		7B854C9A1F684FF000FFF55D /* UXinSettingCellView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UXinSettingCellView.m; sourceTree = "<group>"; };
 		7B854C9E1F688E3800FFF55D /* UXinSettingBaseController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UXinSettingBaseController.h; sourceTree = "<group>"; };
@@ -688,8 +674,6 @@
 		7B99B6C01F32A70A00B7DC4A /* UXinLoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UXinLoginViewController.h; sourceTree = "<group>"; };
 		7B99B6C11F32A70A00B7DC4A /* UXinLoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UXinLoginViewController.m; sourceTree = "<group>"; };
 		7B9D8FC31FDA25FC00E09F20 /* TabBarConfig.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TabBarConfig.h; sourceTree = "<group>"; };
-		7B9D90171FDF69F200E09F20 /* UXinReactHelper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UXinReactHelper.h; sourceTree = "<group>"; };
-		7B9D90181FDF69F200E09F20 /* UXinReactHelper.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UXinReactHelper.m; sourceTree = "<group>"; };
 		7BB0679120EE8D4100A2CCCE /* UXinFinderController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UXinFinderController.h; sourceTree = "<group>"; };
 		7BB0679220EE8D4100A2CCCE /* UXinFinderController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UXinFinderController.m; sourceTree = "<group>"; };
 		7BB0679720EE916500A2CCCE /* UXinLightGrayView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UXinLightGrayView.h; sourceTree = "<group>"; };
@@ -994,55 +978,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		7B43DBA41FA0398F002CCB86 /* ReactNative */ = {
-			isa = PBXGroup;
-			children = (
-				7B77FA341FA405760097D275 /* Common */,
-				7B77FA331FA4056C0097D275 /* Package */,
-				7B43DBA51FA03A5B002CCB86 /* HotUpdate */,
-				7B135CBC20E1661000D61CCC /* UXinApplicationDelegate.h */,
-				7B135CBD20E1661000D61CCC /* UXinApplicationDelegate.m */,
-				7B135CBF20E166C800D61CCC /* UXinApplication.h */,
-				7B135CC020E166C800D61CCC /* UXinApplication.m */,
-			);
-			path = ReactNative;
-			sourceTree = "<group>";
-		};
-		7B43DBA51FA03A5B002CCB86 /* HotUpdate */ = {
-			isa = PBXGroup;
-			children = (
-				7B43DBB51FA044D3002CCB86 /* BSDiff */,
-				7B43DBA61FA03A7A002CCB86 /* UXinHotUpdate.h */,
-				7B43DBA71FA03A7A002CCB86 /* UXinHotUpdate.m */,
-				7B43DBC11FA10879002CCB86 /* UXinHotUpdateManager.h */,
-				7B43DBC21FA10879002CCB86 /* UXinHotUpdateManager.m */,
-				7B43DBC61FA108AB002CCB86 /* UXinHotUpdateDownloader.h */,
-				7B43DBC71FA108AB002CCB86 /* UXinHotUpdateDownloader.m */,
-				7B2E00091FB0D85800D19C18 /* UXinHotUpdateVersionCheck.h */,
-				7B2E000A1FB0D85900D19C18 /* UXinHotUpdateVersionCheck.m */,
-			);
-			path = HotUpdate;
-			sourceTree = "<group>";
-		};
-		7B43DBB51FA044D3002CCB86 /* BSDiff */ = {
-			isa = PBXGroup;
-			children = (
-				7B43DBB61FA044D3002CCB86 /* BSDiff.h */,
-				7B43DBB71FA044D3002CCB86 /* BSDiff.m */,
-				7B43DBB81FA044D3002CCB86 /* bzip */,
-			);
-			path = BSDiff;
-			sourceTree = "<group>";
-		};
-		7B43DBB81FA044D3002CCB86 /* bzip */ = {
-			isa = PBXGroup;
-			children = (
-				7B43DBB91FA044D3002CCB86 /* bspatch.c */,
-				7B43DBBA1FA044D3002CCB86 /* bspatch.h */,
-			);
-			path = bzip;
-			sourceTree = "<group>";
-		};
 		7B58626D1FAB8221005328A2 /* EmptyDataSet */ = {
 			isa = PBXGroup;
 			children = (
@@ -1077,22 +1012,6 @@
 				7B74DB56203FC1E4004FFF5A /* UXinDomainRequest.m */,
 			);
 			path = Request;
-			sourceTree = "<group>";
-		};
-		7B77FA331FA4056C0097D275 /* Package */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Package;
-			sourceTree = "<group>";
-		};
-		7B77FA341FA405760097D275 /* Common */ = {
-			isa = PBXGroup;
-			children = (
-				7B9D90171FDF69F200E09F20 /* UXinReactHelper.h */,
-				7B9D90181FDF69F200E09F20 /* UXinReactHelper.m */,
-			);
-			path = Common;
 			sourceTree = "<group>";
 		};
 		7B79814A1F4CE324007D7B7E /* Model */ = {
@@ -1231,6 +1150,94 @@
 			path = SystemAlert;
 			sourceTree = "<group>";
 		};
+		7B84FCA4212AB49300F5CFCA /* ReactNative */ = {
+			isa = PBXGroup;
+			children = (
+				7B84FCA5212AB49300F5CFCA /* Common */,
+				7B84FCA8212AB49300F5CFCA /* HotUpdate */,
+				7B84FCB7212AB49300F5CFCA /* SSZipArchive */,
+				7B84FCBA212AB49300F5CFCA /* UXinApplication.h */,
+				7B84FCBB212AB49300F5CFCA /* UXinApplication.m */,
+				7B84FCBC212AB49300F5CFCA /* UXinApplicationDelegate.h */,
+				7B84FCBD212AB49300F5CFCA /* UXinApplicationDelegate.m */,
+			);
+			path = ReactNative;
+			sourceTree = "<group>";
+		};
+		7B84FCA5212AB49300F5CFCA /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				7B84FCA6212AB49300F5CFCA /* UXinReactHelper.h */,
+				7B84FCA7212AB49300F5CFCA /* UXinReactHelper.m */,
+			);
+			path = Common;
+			sourceTree = "<group>";
+		};
+		7B84FCA8212AB49300F5CFCA /* HotUpdate */ = {
+			isa = PBXGroup;
+			children = (
+				7B84FCA9212AB49300F5CFCA /* BSDiff */,
+				7B84FCAF212AB49300F5CFCA /* UXinHotUpdate.h */,
+				7B84FCB0212AB49300F5CFCA /* UXinHotUpdate.m */,
+				7B84FCB1212AB49300F5CFCA /* UXinHotUpdateDownloader.h */,
+				7B84FCB2212AB49300F5CFCA /* UXinHotUpdateDownloader.m */,
+				7B84FCB3212AB49300F5CFCA /* UXinHotUpdateManager.h */,
+				7B84FCB4212AB49300F5CFCA /* UXinHotUpdateManager.m */,
+				7B84FCB5212AB49300F5CFCA /* UXinHotUpdateVersionCheck.h */,
+				7B84FCB6212AB49300F5CFCA /* UXinHotUpdateVersionCheck.m */,
+			);
+			path = HotUpdate;
+			sourceTree = "<group>";
+		};
+		7B84FCA9212AB49300F5CFCA /* BSDiff */ = {
+			isa = PBXGroup;
+			children = (
+				7B84FCAA212AB49300F5CFCA /* BSDiff.h */,
+				7B84FCAB212AB49300F5CFCA /* BSDiff.m */,
+				7B84FCAC212AB49300F5CFCA /* bzip */,
+			);
+			path = BSDiff;
+			sourceTree = "<group>";
+		};
+		7B84FCAC212AB49300F5CFCA /* bzip */ = {
+			isa = PBXGroup;
+			children = (
+				7B84FCAD212AB49300F5CFCA /* bspatch.c */,
+				7B84FCAE212AB49300F5CFCA /* bspatch.h */,
+			);
+			path = bzip;
+			sourceTree = "<group>";
+		};
+		7B84FCB7212AB49300F5CFCA /* SSZipArchive */ = {
+			isa = PBXGroup;
+			children = (
+				7B84FCB8212AB49300F5CFCA /* aes */,
+				7B84FCB9212AB49300F5CFCA /* minizip */,
+			);
+			path = SSZipArchive;
+			sourceTree = "<group>";
+		};
+		7B84FCB8212AB49300F5CFCA /* aes */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = aes;
+			sourceTree = "<group>";
+		};
+		7B84FCB9212AB49300F5CFCA /* minizip */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = minizip;
+			sourceTree = "<group>";
+		};
+		7B84FCC7212AB51800F5CFCA /* XiaoMaGe */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = XiaoMaGe;
+			sourceTree = "<group>";
+		};
 		7B854C981F684F9400FFF55D /* setting */ = {
 			isa = PBXGroup;
 			children = (
@@ -1339,6 +1346,8 @@
 		7B99B5FC1F30E39500B7DC4A = {
 			isa = PBXGroup;
 			children = (
+				7B84FCC7212AB51800F5CFCA /* XiaoMaGe */,
+				7B84FCA4212AB49300F5CFCA /* ReactNative */,
 				7BD2D25F200D93D700B82F42 /* Icon_180x180.png */,
 				7BD2D256200D931300B82F42 /* 750x1134.png */,
 				7BD2D254200D931100B82F42 /* 750x1334.png */,
@@ -1353,7 +1362,6 @@
 				7BD2D245200D92F700B82F42 /* Icon_120x120.png */,
 				7BD2D247200D92F800B82F42 /* Icon.png */,
 				7BD2D248200D92F800B82F42 /* Icon@2x.png */,
-				7B43DBA41FA0398F002CCB86 /* ReactNative */,
 				7B99B6071F30E39500B7DC4A /* NewUXin */,
 				7B99B6211F30E39600B7DC4A /* NewUXinTests */,
 				7B99B62C1F30E39600B7DC4A /* NewUXinUITests */,
@@ -2457,12 +2465,12 @@
 				7BD2D266200E861E00B82F42 /* UXinDefaultHelper.m in Sources */,
 				7B79832E1F52192F007D7B7E /* UXinAlertController.m in Sources */,
 				7B854CCF1F6C499B00FFF55D /* UXinParallaxView.m in Sources */,
-				7B135CBE20E1661000D61CCC /* UXinApplicationDelegate.m in Sources */,
 				7BFD19D71F99597C001A2035 /* UXinChangeVoiceView.m in Sources */,
 				7B135C6E20D0CD2E00D61CCC /* UXinTestLabel.m in Sources */,
 				7BE8FDA01F3967F300FDDA98 /* UXinGCDQueue.m in Sources */,
 				7B854CE61F6C66EF00FFF55D /* UIScrollView+ParallaxHeader.m in Sources */,
 				7B99B6C21F32A70A00B7DC4A /* UXinLoginViewController.m in Sources */,
+				7B84FCC4212AB49300F5CFCA /* UXinHotUpdateVersionCheck.m in Sources */,
 				7BD2D2B62011574000B82F42 /* UXinWebView.m in Sources */,
 				7B74DB57203FC1E4004FFF5A /* UXinDomainRequest.m in Sources */,
 				7BD2D2AC2011547900B82F42 /* UXinRootViewController.m in Sources */,
@@ -2471,7 +2479,6 @@
 				7B5862751FAB85F2005328A2 /* UIView+EmptyDataSetConstrainBasedLayoutExtensions.m in Sources */,
 				7BB0679F20EE926300A2CCCE /* UXinRedView.m in Sources */,
 				7B854CA51F68A02600FFF55D /* UXinAckHelper.m in Sources */,
-				7B2E000B1FB0D85900D19C18 /* UXinHotUpdateVersionCheck.m in Sources */,
 				7B854C9B1F684FF000FFF55D /* UXinSettingCellView.m in Sources */,
 				7BFD1A0D1F995BA0001A2035 /* UXinVoiceButton.m in Sources */,
 				7BFD1A021F995AE1001A2035 /* UXinAudioPlayView.m in Sources */,
@@ -2481,7 +2488,6 @@
 				7B77FA2A1FA405020097D275 /* UXinPhotoBrowserCell.m in Sources */,
 				7BE8FE1E1F42790300FDDA98 /* UXinPopupMenuCell.m in Sources */,
 				7B43DBAD1FA041E9002CCB86 /* UXinDBHelper.m in Sources */,
-				7B43DBBE1FA044D3002CCB86 /* bspatch.c in Sources */,
 				7B854CAB1F68A33900FFF55D /* UXinBaseEntity.m in Sources */,
 				7B77FA1B1FA3FF080097D275 /* UXinPhotoCollectionViewCell.m in Sources */,
 				7BD2D15F20082E9500B82F42 /* UXinPrivatePermission.m in Sources */,
@@ -2492,7 +2498,6 @@
 				7B77FA071FA3F8B40097D275 /* UXinPhotoPreviewImageAndGif.m in Sources */,
 				7BE8FD9A1F3963D800FDDA98 /* UXinNetUploadFormData.m in Sources */,
 				7BD2D27C200EAEFA00B82F42 /* UIImage+additions.m in Sources */,
-				7B135CC120E166C800D61CCC /* UXinApplication.m in Sources */,
 				7BE8FDAF1F39683900FDDA98 /* UXinGCDTimer.m in Sources */,
 				7B58627F1FAB8648005328A2 /* UIScrollView+UXinEmptyDataSet.m in Sources */,
 				7BFD1A081F995B7A001A2035 /* UXinRecordModel.m in Sources */,
@@ -2524,6 +2529,7 @@
 				7BFD1A271F9A6FD3001A2035 /* UXinRecordStateView.m in Sources */,
 				7BE8FD8A1F395E6000FDDA98 /* UXinNetRequest.m in Sources */,
 				7B43DBB21FA04237002CCB86 /* UXinDBModel.m in Sources */,
+				7B84FCC2212AB49300F5CFCA /* UXinHotUpdateDownloader.m in Sources */,
 				7B135C7120D341B900D61CCC /* UXinHomeController.m in Sources */,
 				7B854CD41F6C49C800FFF55D /* UXinParallaxScrollView.m in Sources */,
 				7BB0679920EE916500A2CCCE /* UXinLightGrayView.m in Sources */,
@@ -2532,21 +2538,21 @@
 				7BED9D662013F25000ED003D /* UXinWebViewController.m in Sources */,
 				7BFE79BE2066F26F00C2281F /* sunManager.m in Sources */,
 				7BED9D4F2012659300ED003D /* UXinWebViewMessage.m in Sources */,
+				7B84FCC6212AB49300F5CFCA /* UXinApplicationDelegate.m in Sources */,
 				7BB0679C20EE924700A2CCCE /* UXinUXinBlueView.m in Sources */,
 				7BE8FDDC1F3D346D00FDDA98 /* UXinBaseViewModel.m in Sources */,
 				7BE3A42E20F3DA03005D3AAA /* UXinCustomScrollView.m in Sources */,
 				7B77FA3C1FA405E00097D275 /* UXinPhotoShowBigImgViewController.m in Sources */,
 				7BBF8FB42031055500A0DE78 /* UXinPhotoBrowserView.m in Sources */,
+				7B84FCC0212AB49300F5CFCA /* bspatch.c in Sources */,
 				7BBF8F1E201BCD7700A0DE78 /* NSURLSession+CorrectedResumeData.m in Sources */,
 				7BD2D2BB2011626500B82F42 /* UXinFriendController.m in Sources */,
 				7B77FA251FA404D10097D275 /* UXinPhotoToastUtils.m in Sources */,
 				7BFD1A181F9962E8001A2035 /* UXinAudioPlayer.m in Sources */,
 				7B854CB11F68A74500FFF55D /* UXinChatListController.m in Sources */,
 				7B77FA201FA404970097D275 /* UXinTakePhotoCollectionCell.m in Sources */,
-				7B43DBBB1FA044D3002CCB86 /* BSDiff.m in Sources */,
 				7B77FA161FA3FEE00097D275 /* UXinPhotoManager.m in Sources */,
 				7BE8FD801F395E3800FDDA98 /* UXinNetEngine.m in Sources */,
-				7B43DBC31FA10879002CCB86 /* UXinHotUpdateManager.m in Sources */,
 				7BD2D265200E861E00B82F42 /* UXinUrlHelper.m in Sources */,
 				7B99B6BD1F32A6ED00B7DC4A /* UXinBaseViewController.m in Sources */,
 				7BBF8FB92031088C00A0DE78 /* UXinPhotoBrowserTapDetectingImageView.m in Sources */,
@@ -2555,17 +2561,17 @@
 				7B99B60D1F30E39500B7DC4A /* AppDelegate.m in Sources */,
 				7BFD19F81F995AA4001A2035 /* UXinVoiceChangePlayView.m in Sources */,
 				7BD2D27E200EAEFA00B82F42 /* UIView+additions.m in Sources */,
-				7B9D90191FDF69F200E09F20 /* UXinReactHelper.m in Sources */,
+				7B84FCBE212AB49300F5CFCA /* UXinReactHelper.m in Sources */,
 				7BDD8B941F5A301900ABA3E9 /* UXinWebSocket.m in Sources */,
 				7B77F9DF1FA3F3210097D275 /* UXinWeakProxy.m in Sources */,
 				7B77F9E41FA3F33A0097D275 /* UXinFPSLabel.m in Sources */,
 				7BE8FE241F43B1E900FDDA98 /* UXinUserManager.m in Sources */,
-				7B43DBC81FA108AB002CCB86 /* UXinHotUpdateDownloader.m in Sources */,
 				7BBF8F0F201BC8FC00A0DE78 /* UXinDownloadSession.m in Sources */,
 				7BBF8FAF203103EC00A0DE78 /* UXinPhotoBrowserManager.m in Sources */,
 				7B99B60A1F30E39500B7DC4A /* main.m in Sources */,
 				7B854CC81F6C47D300FFF55D /* UXinParallaxHeader.m in Sources */,
 				7B854CD91F6C4A5B00FFF55D /* UXinParallaxScrollViewController.m in Sources */,
+				7B84FCBF212AB49300F5CFCA /* BSDiff.m in Sources */,
 				7BD2D27D200EAEFA00B82F42 /* NSString+Common.m in Sources */,
 				7BBF8FAA203103C300A0DE78 /* UXinPhotoBrowserConst.m in Sources */,
 				7BFD19FD1F995AC1001A2035 /* UXinVoiceChangePlayCell.mm in Sources */,
@@ -2580,6 +2586,7 @@
 				7BE3A43120F3DCCA005D3AAA /* UXinConsumeGestureOne.m in Sources */,
 				7BBF8F14201BC91C00A0DE78 /* UXinDownloadManager.m in Sources */,
 				7B854CBB1F68A7AF00FFF55D /* UXinChatViewController.m in Sources */,
+				7B84FCC3212AB49300F5CFCA /* UXinHotUpdateManager.m in Sources */,
 				7BFD19D41F995945001A2035 /* UXinTalkBackView.m in Sources */,
 				7BE8FD851F395E4E00FDDA98 /* UXinNetCenter.m in Sources */,
 				7BD2D2B1201156CD00B82F42 /* UXinMainTabController.m in Sources */,
@@ -2587,11 +2594,12 @@
 				7B854CDE1F6C4ABA00FFF55D /* UXinParallaxScrollViewDelegateForwarder.m in Sources */,
 				7BE8FD671F391A7D00FDDA98 /* UXinLoginViewModel.m in Sources */,
 				7BD2D1552005413B00B82F42 /* UXinValueTrackingSlider.m in Sources */,
-				7B43DBA81FA03A7A002CCB86 /* UXinHotUpdate.m in Sources */,
 				7BE8FD951F39639E00FDDA98 /* UXinNetChainRequest.m in Sources */,
+				7B84FCC5212AB49300F5CFCA /* UXinApplication.m in Sources */,
 				7BE8FDA51F39680400FDDA98 /* UXinGCDGroup.m in Sources */,
 				7B58627A1FAB8616005328A2 /* UXinEmptyDataSetView.m in Sources */,
 				7B854CA01F688E3800FFF55D /* UXinSettingBaseController.m in Sources */,
+				7B84FCC1212AB49300F5CFCA /* UXinHotUpdate.m in Sources */,
 				7B77F9F31FA3F48C0097D275 /* UXinAlbumListModel.m in Sources */,
 				7BE8FE141F42750000FDDA98 /* UXinPopupMenu.m in Sources */,
 				7B7983381F521E37007D7B7E /* UXinAlertAction.m in Sources */,
@@ -2613,7 +2621,6 @@
 				7B77F9EA1FA3F4210097D275 /* UXinPhotoActionSheet.m in Sources */,
 				7B74DB58203FC1E4004FFF5A /* UXinDomainRequest.m in Sources */,
 				7B99B6C31F32A70A00B7DC4A /* UXinLoginViewController.m in Sources */,
-				7B43DBBF1FA044D3002CCB86 /* bspatch.c in Sources */,
 				7BE8FDF21F3E11D200FDDA98 /* UXinBaseTableView.m in Sources */,
 				7B77FA121FA3F8F30097D275 /* UXinPreviewVideo.m in Sources */,
 				7B77F9F41FA3F48C0097D275 /* UXinAlbumListModel.m in Sources */,
@@ -2622,7 +2629,6 @@
 				7BD2D2AD2011547900B82F42 /* UXinRootViewController.m in Sources */,
 				7BE8FDFC1F3E1AA000FDDA98 /* UXinFileSystem.m in Sources */,
 				7BBF8FBF20310B6500A0DE78 /* UXinPhotoBrowserZoomScrollView.m in Sources */,
-				7B43DBC41FA10879002CCB86 /* UXinHotUpdateManager.m in Sources */,
 				7BED9D502012659300ED003D /* UXinWebViewMessage.m in Sources */,
 				7BE8FE1F1F42790300FDDA98 /* UXinPopupMenuCell.m in Sources */,
 				7B854CAC1F68A33900FFF55D /* UXinBaseEntity.m in Sources */,
@@ -2656,13 +2662,11 @@
 				7BE8FD8B1F395E6000FDDA98 /* UXinNetRequest.m in Sources */,
 				7B77F9E01FA3F3210097D275 /* UXinWeakProxy.m in Sources */,
 				7B77FA2B1FA405020097D275 /* UXinPhotoBrowserCell.m in Sources */,
-				7B9D901A1FDF69F200E09F20 /* UXinReactHelper.m in Sources */,
 				7BFD19D81F99597C001A2035 /* UXinChangeVoiceView.m in Sources */,
 				7B854CD51F6C49C800FFF55D /* UXinParallaxScrollView.m in Sources */,
 				7BD2D2C12011653F00B82F42 /* UXinStudyApplicationController.m in Sources */,
 				7B43DBB31FA04237002CCB86 /* UXinDBModel.m in Sources */,
 				7B854D1A1F71898E00FFF55D /* UXinBadgeView.m in Sources */,
-				7B43DBC91FA108AB002CCB86 /* UXinHotUpdateDownloader.m in Sources */,
 				7BED9D672013F25000ED003D /* UXinWebViewController.m in Sources */,
 				7BBF8EED201A517F00A0DE78 /* UXinHtmlController.m in Sources */,
 				7BBF8FBA2031088C00A0DE78 /* UXinPhotoBrowserTapDetectingImageView.m in Sources */,
@@ -2690,8 +2694,6 @@
 				7BFD19FE1F995AC1001A2035 /* UXinVoiceChangePlayCell.mm in Sources */,
 				7B854CDA1F6C4A5B00FFF55D /* UXinParallaxScrollViewController.m in Sources */,
 				7B77FA211FA404970097D275 /* UXinTakePhotoCollectionCell.m in Sources */,
-				7B2E000C1FB0D85900D19C18 /* UXinHotUpdateVersionCheck.m in Sources */,
-				7B43DBBC1FA044D3002CCB86 /* BSDiff.m in Sources */,
 				7BFD1A1E1F996303001A2035 /* UXinRecorder.m in Sources */,
 				7BBF8FAB203103C300A0DE78 /* UXinPhotoBrowserConst.m in Sources */,
 				7B854CBC1F68A7AF00FFF55D /* UXinChatViewController.m in Sources */,
@@ -2702,7 +2704,6 @@
 				7B77FA0D1FA3F8D50097D275 /* UXinPhotoPreviewLivePhoto.m in Sources */,
 				7B854CDF1F6C4ABA00FFF55D /* UXinParallaxScrollViewDelegateForwarder.m in Sources */,
 				7BE8FD681F391A7D00FDDA98 /* UXinLoginViewModel.m in Sources */,
-				7B43DBA91FA03A7A002CCB86 /* UXinHotUpdate.m in Sources */,
 				7BFD1A231F9964A3001A2035 /* UIView+Response.m in Sources */,
 				7BE8FD961F39639E00FDDA98 /* UXinNetChainRequest.m in Sources */,
 				7BE8FDA61F39680400FDDA98 /* UXinGCDGroup.m in Sources */,
@@ -2716,7 +2717,6 @@
 				7B5862761FAB85F2005328A2 /* UIView+EmptyDataSetConstrainBasedLayoutExtensions.m in Sources */,
 				7BE8FE151F42750000FDDA98 /* UXinPopupMenu.m in Sources */,
 				7B7983391F521E37007D7B7E /* UXinAlertAction.m in Sources */,
-				7B135CC220E166C800D61CCC /* UXinApplication.m in Sources */,
 				7B77FA261FA404D10097D275 /* UXinPhotoToastUtils.m in Sources */,
 				7BD2D28D200EE58900B82F42 /* UXinTabBar.m in Sources */,
 				7B77FA171FA3FEE00097D275 /* UXinPhotoManager.m in Sources */,
@@ -2760,7 +2760,6 @@
 				7B77F9E11FA3F3210097D275 /* UXinWeakProxy.m in Sources */,
 				7BE8FDFD1F3E1AA000FDDA98 /* UXinFileSystem.m in Sources */,
 				7BFD1A291F9A6FD3001A2035 /* UXinRecordStateView.m in Sources */,
-				7B135CC320E166C800D61CCC /* UXinApplication.m in Sources */,
 				7BE8FDB61F3A8B8600FDDA98 /* NSObject+BindingNetRequest.m in Sources */,
 				7BD2D15C2005468B00B82F42 /* UXinValuePopUpView.m in Sources */,
 				7B77FA041FA3F88B0097D275 /* UXinBasePhotoPreView.m in Sources */,
@@ -2774,13 +2773,10 @@
 				7BE8FD921F39637800FDDA98 /* UXinNetBatchRequest.m in Sources */,
 				7BE8FDEE1F3D76B700FDDA98 /* UXinDomainEntity.m in Sources */,
 				7BFD19D91F99597C001A2035 /* UXinChangeVoiceView.m in Sources */,
-				7B43DBBD1FA044D3002CCB86 /* BSDiff.m in Sources */,
 				7BBF8FA72031022000A0DE78 /* UXinPhotoBrowserOptionView.m in Sources */,
 				7BBF8F0C201BC8BE00A0DE78 /* UXinDownloadTask.m in Sources */,
-				7B43DBAA1FA03A7A002CCB86 /* UXinHotUpdate.m in Sources */,
 				7BD2D1572005413B00B82F42 /* UXinValueTrackingSlider.m in Sources */,
 				7BBF8FBB2031088C00A0DE78 /* UXinPhotoBrowserTapDetectingImageView.m in Sources */,
-				7B2E000D1FB0D85900D19C18 /* UXinHotUpdateVersionCheck.m in Sources */,
 				7BD2D293200EE6BE00B82F42 /* UXinTabBarItem.m in Sources */,
 				7B74DB59203FC1E4004FFF5A /* UXinDomainRequest.m in Sources */,
 				7B58627C1FAB8616005328A2 /* UXinEmptyDataSetView.m in Sources */,
@@ -2793,9 +2789,7 @@
 				7BE8FD9C1F3963D800FDDA98 /* UXinNetUploadFormData.m in Sources */,
 				7B77F9FF1FA3F7F00097D275 /* UXinPhotoPreView.m in Sources */,
 				7BE8FD691F391A7D00FDDA98 /* UXinLoginViewModel.m in Sources */,
-				7B43DBCA1FA108AB002CCB86 /* UXinHotUpdateDownloader.m in Sources */,
 				7B99B62E1F30E39600B7DC4A /* NewUXinUITests.m in Sources */,
-				7B43DBC51FA10879002CCB86 /* UXinHotUpdateManager.m in Sources */,
 				7B77F9EB1FA3F4210097D275 /* UXinPhotoActionSheet.m in Sources */,
 				7BBF8F11201BC8FC00A0DE78 /* UXinDownloadSession.m in Sources */,
 				7B77FA391FA405B70097D275 /* UXinPhotoNoAuthorityViewController.m in Sources */,
@@ -2822,7 +2816,6 @@
 				7BED9D682013F25000ED003D /* UXinWebViewController.m in Sources */,
 				7BFD19FF1F995AC1001A2035 /* UXinVoiceChangePlayCell.mm in Sources */,
 				7BFD1A1F1F996303001A2035 /* UXinRecorder.m in Sources */,
-				7B9D901B1FDF69F200E09F20 /* UXinReactHelper.m in Sources */,
 				7B854D1B1F71898E00FFF55D /* UXinBadgeView.m in Sources */,
 				7BE8FDF31F3E11D300FDDA98 /* UXinBaseTableView.m in Sources */,
 				7BDD8B961F5A301900ABA3E9 /* UXinWebSocket.m in Sources */,
@@ -2842,7 +2835,6 @@
 				7BD2D2B82011574000B82F42 /* UXinWebView.m in Sources */,
 				7B77FA311FA405230097D275 /* UXinPhotoProgressHUD.m in Sources */,
 				7B854CCA1F6C47D300FFF55D /* UXinParallaxHeader.m in Sources */,
-				7B43DBC01FA044D3002CCB86 /* bspatch.c in Sources */,
 				7B854CDB1F6C4A5B00FFF55D /* UXinParallaxScrollViewController.m in Sources */,
 				7BD2D2B3201156CD00B82F42 /* UXinMainTabController.m in Sources */,
 				7BD2D283200EBD5100B82F42 /* UXinBaseParser.m in Sources */,
